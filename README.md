@@ -41,11 +41,11 @@ I'm an AI Enthusiast.
 <h2 align="center">🌐 SOCIAL MEDIA</h2>
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:ibtisamimtiaz5911@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/ibtisam-imtiaz-608830407/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
